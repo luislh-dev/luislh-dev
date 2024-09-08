@@ -3,7 +3,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png">
   <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
 </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LuisLopez-developer/LuisLopez-developer/blob/main/assets/descripcion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuisLopez-developer/LuisLopez-developer/blob/main/assets/descripcion_dark.svg">
+  <img alt="Hashnode logo" src="https://github.com/LuisLopez-developer/LuisLopez-developer/blob/main/assets/descripcion.svg" height="25">
+</picture>
 
 <div align="center">
   <a>
@@ -15,13 +19,7 @@
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </picture>
 </p>
-  <p align="center">
-![GitHub-Mark-Light](./assets/descripcion.svg#gh-light-mode-only)![GitHub-Mark-Dark ](./assets/descripcion_dark.svg#gh-dark-mode-only)
-</p>
-  <p align="center">
-    <img src="./assets/descripcion.svg#gh-light-mode-only" height="300" width="1080"/>
-    <img src="./assets/descripcion_dark.svg#gh-dark-mode-only" height="300" width="1080"/>
-  </a>
+
 </p>
 </div>
 
