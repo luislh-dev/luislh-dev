@@ -5,6 +5,11 @@
   <p align="center">
 ![GitHub-Mark-Light](./assets/descripcion.svg#gh-light-mode-only)![GitHub-Mark-Dark ](./assets/descripcion_dark.svg#gh-dark-mode-only)
 </p>
+  <p align="center">
+    <img src="./assets/descripcion.svg#gh-light-mode-only" height="300" width="1080"/>
+    <img src="./assets/descripcion_dark.svg#gh-dark-mode-only" height="300" width="1080"/>
+  </a>
+</p>
 </div>
 
 <h2 align="center">Habilidades</h2>
