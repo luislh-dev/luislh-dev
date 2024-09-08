@@ -1,7 +1,12 @@
-<h1 align="center">¡Hola 👋! Soy Luis Lopez 👨🏻‍💻</h1>
-<p align="center">
-  Soy un desarrollador con experiencia en crear soluciones utilizando diversas tecnologías. Me apasiona superar mis límites y enfrentar nuevos desafíos.
-</p>
+<div align="center">
+  <a href="https://cosmoart.vercel.app">
+      <img src="assets/hero.svg" alt="Hola, soy Luis Lopez" width="40%"/>
+  </a>
+  <p >
+    Un desarrollador con experiencia en crear soluciones utilizando diversas tecnologías. Me apasiona superar mis límites y enfrentar nuevos desafíos.
+  </p>
+</div>
+
 
 <h2 align="center">Habilidades</h2>
 <p align="center">
