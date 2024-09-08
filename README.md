@@ -2,9 +2,13 @@
   <a>
     <img src="assets/hero.svg" alt="Hola, soy Luis Lopez" width="40%"/>
   </a>
-  <a>
-    <img src="assets/descripcion.svg" alt="Descripción de Luis Lopez" width="100%" id="descripcion-img"/>
-  </a>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/descripcion.svg">
+      <source media="(prefers-color-scheme: light)" srcset="/assets/descripcion_black.svg">
+      <img alt="Descripción de Luis lopez" src="./assets/descripcion.svg">
+    </picture>
+</p>
 </div>
 
 <h2 align="center">Habilidades</h2>
@@ -23,13 +27,3 @@
     </td>
   </tr>
 </table>
-
-<style>
-:root {
-  color-scheme: light dark;
-}
-
-#descripcion-img {
-  filter: light-dark(none, invert(1));
-}
-</style>
