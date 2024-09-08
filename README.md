@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://cosmoart.vercel.app">
+  <a>
       <img src="assets/hero.svg" alt="Hola, soy Luis Lopez" width="40%"/>
   </a>
   <p >
