@@ -17,7 +17,7 @@
       <img src="https://cosmo-github-readme-stats.vercel.app/api?username=LuisLopez-developer&show_icons=true" />
     </td>
     <td>
-      <img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=LuisLopez-developer&show_icons=true&layout=compact&langs_count=8" />
+      <img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=LuisLopez-developer&show_icons=true&layout=compact&langs_count=8&hide=css" />
     </td>
   </tr>
 </table>
