@@ -14,10 +14,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://cosmo-github-readme-stats.vercel.app/api?username=luislh-dev&show_icons=true" />
+      <img src="https://github-stats.luislh.dev/api?username=luislh-dev&show_icons=true" />
     </td>
     <td>
-      <img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=luislh-dev&show_icons=true&layout=compact&langs_count=8&hide=css,html" />
+      <img src="https://github-stats.luislh.dev/api/top-langs/?username=luislh-dev&show_icons=true&layout=compact&langs_count=8&hide=css,html" />
     </td>
   </tr>
 </table>
